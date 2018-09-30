@@ -1,2 +1,2 @@
 # mpvue-start
-a project for mpvue quickly start
+mpvue-cli project
